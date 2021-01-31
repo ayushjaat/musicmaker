@@ -80,7 +80,7 @@ header p{
   }
   
   100%{
-    bottom: 0%;
+    bottom: -1%;
     left: 80%;
   }
 }
